@@ -121,6 +121,7 @@ h6{
 #sign-in .or span {
   color: #aaaaaa;
   padding: 0 0.8rem;
+
 }
 
 /* SHOWCASE */
@@ -151,6 +152,8 @@ h6{
 #showcase span {
   color: #9c4dcc;
   text-transform: uppercase;
+  font-style: italic;
+  border-bottom: 5px solid #9c4dcc;
 }
 
 /* Footer */
