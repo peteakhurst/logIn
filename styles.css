@@ -124,6 +124,8 @@ h6{
   justify-content: center;
   align-items: center;
   background: url('./images/secondary-bg.jpg') no-repeat center center / cover;
+  background-color: #555555;
+  background-blend-mode: multiply;
   height: 100vh;
   text-align: center;
 }
