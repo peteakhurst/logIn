@@ -79,10 +79,15 @@ h6{
   line-height: 1.3rem;
 }
 
+#sign-in .textinput:focus {
+    outline: none !important;
+    border:1px solid #9c4dcc;
+    box-shadow: 0 0 10px #9c4dcc;
+}
+
 #sign-in .primary-btn {
   width: 100%;
 }
-
 
 #sign-in .secondary-btn,
 .or,
@@ -161,8 +166,6 @@ h6{
   color: #9c4dcc;
   text-decoration: underline;
 }
-
-
 
 /* BUTTON */
 .primary-btn {
